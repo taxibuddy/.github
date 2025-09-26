@@ -1,6 +1,6 @@
 <div align="center">
 
-# TaxiBuddy
+<img src="../assets/logo-text.svg" width=420 height=200/>
 
 
 <p align="center">
